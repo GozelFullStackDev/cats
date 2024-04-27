@@ -1,0 +1,15 @@
+.up-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #CEDBE9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .up-button:hover {
+    background-color: #CEDBE9;
+  }
